@@ -1,0 +1,11 @@
+
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 30.03.2022
+  Info:
+    - Error while filling the armor grid, filling the inventory instead.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 30.03.2022
+  Info:
+    - Initial release, based on great_start 1.1.0 from Ebon Lord

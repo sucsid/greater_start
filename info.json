@@ -1,0 +1,14 @@
+{
+  "name": "greater_start",
+  "version": "1.0.0",
+  "title": "Greater Start",
+  "author": "Lou_Buc",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "1.1",
+  "dependencies": [
+  "base",
+  "AfraidOfTheDark"
+  ],
+  "description": "Start with 50 construction bots, 2 roboports MK2, 2 portable fusion reactor, 4 Personal battery MK2, 1 Perfect night glasses, 5 Exoskeletons, 7 Portable solar panel, 1 Belt immunity equipment. Unlocked all vanilla bots speed & cargo size researches too."
+}
